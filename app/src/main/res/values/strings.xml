@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FeelTheApp</string>
+
+    <string name="feed_title_example">The Assassin</string>
+    <string name="feed_description_example">During the ninth century, a general\'s young daughter is kidnapped and trained to become an exceptional assassin. When she doesn\'t execute a mission, she is ordered to kill her betrothed, forcing her to choose between love, family and the assassins.</string>
+    <string name="feed_category_number_example">1</string>
+    <string name="feed_category_example">Action Drama</string>
+
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="welcome_to_feel">Welcome to Feel</string>
+    <string name="balance">Balance</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="account">Account</string>
+    <string name="wallet">Wallet</string>
+    <string name="feed">Feed</string>
+
+    <string name="client_id">360411630978-bn08jgcspdqnb9rvdr3ms1sngrir2l7p.apps.googleusercontent.com</string>
+
+    <string name="auth_token">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJlYjkzZWE3NS0zNjIwLTQ3MTktYWU2NS0zMzM1OTgwMjhhMzciLCJpYXQiOjE1ODc5MzUwOTgsImV4cCI6MTU4ODAyMTQ5OH0.Wj5BbgxnJabzovkLNV0cbq-JMJZEKErKUZoYJy027jk</string>
+    <string name="logout">Log Out</string>
+    <string name="lorem_ipsum">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+
+    <string name="midtrans_base_url">https://app.midtrans.com/snap/v2/vtweb/</string>
+    <string name="log_tag">FEELTHEAPP</string>
+    <string name="share">Bagikan</string>
+    <string name="maulana_akmal">Maulana Akmal</string>
+
+    <string name="notification_title">Feel The App</string>
+    <string name="notification_text">Please Screenshot This Screen</string>
+</resources>

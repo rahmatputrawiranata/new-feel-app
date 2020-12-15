@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffffff</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorPrimaryLight">#ffffff</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="windowBackground">#ECEDEE</color>
+    <color name="black70">#80000000</color>
+    <color name="grey_font">#ff9e9e9e</color>
+    <color name="status_pending">#ffffeaa7</color>
+    <color name="status_approved">#ff000000</color>
+    <color name="status_font_color">#ffffffff</color>
+    <color name="playback_notification_bar">#000000</color>
+</resources>

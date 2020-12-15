@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".screen.feed.FeedFragment">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        tools:ignore="UselessParent">
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/tabLayout"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_toEndOf="@id/moreButton"
+            android:background="@color/colorPrimary"
+            app:tabTextColor="@android:color/black" />
+
+        <ImageButton
+            android:id="@+id/moreButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toStartOf="@id/moreButton"
+            android:paddingBottom="6dp"
+            android:foregroundGravity="bottom"
+            android:background="#ffff"
+            android:src="@drawable/ic_reorder_black_24dp" />
+
+
+        <androidx.viewpager.widget.ViewPager
+            android:id="@+id/feedViewPager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/tabLayout">
+
+
+        </androidx.viewpager.widget.ViewPager>
+    </RelativeLayout>
+
+</FrameLayout>

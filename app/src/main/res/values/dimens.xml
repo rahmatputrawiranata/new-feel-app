@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_48">48dp</dimen>
+    <dimen name="margin_4">4dp</dimen>
+    <dimen name="margin_8">8dp</dimen>
+    <dimen name="radius_16">16dp</dimen>
+    <dimen name="padding_8dp">8dp</dimen>
+    <dimen name="radius_8">8dp</dimen>
+    <dimen name="stroke_1">1dp</dimen>
+    <dimen name="margin_16">16dp</dimen>
+    <dimen name="padding_4">4dp</dimen>
+    <dimen name="padding_8">8dp</dimen>
+    <dimen name="radius_4">4dp</dimen>
+    <dimen name="margin_44">44dp</dimen>
+    <dimen name="margin_24">24dp</dimen>
+    <dimen name="margin_96">96dp</dimen>
+    <dimen name="padding_16">16dp</dimen>
+    <dimen name="padding_32">32dp</dimen>
+    <dimen name="padding_24">24dp</dimen>
+    <dimen name="size_96">96dp</dimen>
+    <dimen name="size_240">240dp</dimen>
+    <dimen name="radius_128">128dp</dimen>
+    <dimen name="size_48">48dp</dimen>
+    <dimen name="elevation_16">16dp</dimen>
+    <dimen name="padding_12">12dp</dimen>
+    <dimen name="radius_24">24dp</dimen>
+    <dimen name="size_24">24dp</dimen>
+    <dimen name="size_120">120dp</dimen>
+    <dimen name="size_160">160dp</dimen>
+    <dimen name="size_200">200dp</dimen>
+    <dimen name="elevation_8">8dp</dimen>
+</resources>
